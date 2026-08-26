@@ -20,20 +20,22 @@ A simple full-stack Student Management System built using **Java, Spring Boot, M
 
 ## Screenshots
 
+## Screenshots
+
 ### Home
-![Home](screenshots/home.png)
+![Home](./screenshots/home.png)
 
 ### Add Student
-![Add Student](screenshots/addStudent.png)
+![Add Student](./screenshots/addStudent.png)
 
 ### Edit Student
-![Edit Student](screenshots/editStudent.png)
+![Edit Student](./screenshots/editStudent.png)
 
 ### Delete Student
-![Delete Student](screenshots/deleteStudent.png)
+![Delete Student](./screenshots/deleteStudent.png)
 
 ### Search Student
-![Search Student](screenshots/searchStudent.png)
+![Search Student](./screenshots/searchStudent.png)
 
 ## How to Run
 
